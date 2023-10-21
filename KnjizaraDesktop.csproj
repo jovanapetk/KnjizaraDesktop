@@ -13,4 +13,8 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="ReaLTaiizor" Version="3.7.9.6" />
+  </ItemGroup>
+
 </Project>
